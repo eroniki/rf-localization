@@ -1,3 +1,6 @@
 [submodule "catkin_ws/src/wifi_observation"]
 	path = catkin_ws/src/wifi_observation
 	url = https://github.com/eroniki/wifi_observation
+[submodule "wifi_regression"]
+	path = wifi_regression
+	url = https://github.com/eroniki/wifi_regression
