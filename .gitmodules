@@ -10,3 +10,6 @@
 [submodule "esp32-thing-wifi-ble"]
 	path = esp32-thing-wifi-ble
 	url = https://github.com/eroniki/esp32-thing-wifi-ble
+[submodule "catkin_ws/src/ble_observation"]
+	path = catkin_ws/src/ble_observation
+	url = https://github.com/eroniki/ble_observation.git
