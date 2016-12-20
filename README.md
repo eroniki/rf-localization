@@ -1,4 +1,4 @@
-# wifi-localization
+# rf-localization
 This package contains a collection of tools which implements different regression methods in order to localize and track an agent in an environment.
 This is a generic read me file summarizes the whole code base.
 In order to obtain further information, please refer the individual read me files in the subfolders.
