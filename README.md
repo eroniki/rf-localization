@@ -1,7 +1,7 @@
 # rf-localization
 This package contains a collection of tools which implements different regression methods in order to localize and track an agent in an environment.
 This is a generic read me file summarizes the whole code base.
-In order to obtain further information, please refer the individual read me files in the subfolders.
+In order to obtain further information, please refer the individual readme files in the subfolders.
 
 
 Maintainer: [Murat Ambarkutuk](https://www.github.com/eroniki)
@@ -12,7 +12,10 @@ Mechanical Engineering Department
 
 Virginia Polytechnic Institute and State University
 
-# WiFi Regression
+# WiFi Regression (Keras implementation)
+This repository contains a Neural Network regressing on RSSI readings to localize an agent on an environment.
+
+# WiFi Regression (MATLAB implementation)
 This package contains 3 different regression tools whose input is RSSI readings from various Access Points and corresponding locations.
 
 # catkin_ws
