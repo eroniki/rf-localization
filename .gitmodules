@@ -16,3 +16,6 @@
 [submodule "deep-rf-regression"]
 	path = deep-rf-regression
 	url = https://github.com/eroniki/deep-rf-regression.git
+[submodule "catkin_ws/src/rf_data_acquisition"]
+	path = catkin_ws/src/rf_data_acquisition
+	url = https://github.com/eroniki/rf_data_acquisition.git
