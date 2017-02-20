@@ -12,6 +12,8 @@ Mechanical Engineering Department
 
 Virginia Polytechnic Institute and State University
 
+[![Build Status](https://travis-ci.org/eroniki/rf-localization.svg?branch=master)](https://travis-ci.org/eroniki/rf-localization)
+
 # WiFi Regression (Keras implementation)
 This repository contains a Neural Network regressing on RSSI readings to localize an agent on an environment.
 
