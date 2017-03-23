@@ -1,9 +1,6 @@
 [submodule "catkin_ws/src/wifi_observation"]
 	path = catkin_ws/src/wifi_observation
 	url = https://github.com/eroniki/wifi_observation
-[submodule "wifi_regression"]
-	path = wifi_regression
-	url = https://github.com/eroniki/wifi_regression
 [submodule "catkin_ws/src/xbee_observation"]
 	path = catkin_ws/src/xbee_observation
 	url = https://github.com/eroniki/xbee_observation.git
@@ -25,3 +22,6 @@
 [submodule "mfms-localization"]
 	path = mfms-localization
 	url = https://github.com/eroniki/mfms-localization
+[submodule "ldpl-based-trilateration"]
+	path = ldpl-based-trilateration
+	url = https://github.com/eroniki/ldpl-based-trilateration
